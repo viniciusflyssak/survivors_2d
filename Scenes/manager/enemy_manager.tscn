@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://d3plqpx120r"]
 
 [ext_resource type="Script" path="res://Scenes/manager/enemy_manager.gd" id="1_lrx6a"]
-[ext_resource type="PackedScene" uid="uid://bwp5fs26mgrnj" path="res://Scenes/basic_enemy/basic_enemy.tscn" id="2_d54nd"]
+[ext_resource type="PackedScene" uid="uid://bwp5fs26mgrnj" path="res://Scenes/game_object/basic_enemy/basic_enemy.tscn" id="2_d54nd"]
 
 [node name="EnemyManager" type="Node"]
 script = ExtResource("1_lrx6a")
